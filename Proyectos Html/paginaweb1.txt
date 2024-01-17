@@ -1,0 +1,23 @@
+<!--Titulos y subtitulos (HEADING)-->
+<h1>Hola Mundo!!!,<br> Esto es un HI</h1>
+<h2>Esto es un subtitulo</h2>}
+<h3>Esto es un subtitulo</h3>
+<h4>Esto es un subtitulo</h4>
+<h5>Esto es un subtitulo</h5>
+<h6>Esto es un subtitulo</h6>
+
+<!--PÁRRAFOS-->
+<p>Esto es un <br> <b><i>parrafo,</i></b></p>
+<p>Esto es <i>otro</i> <u>parrafo </u>.</p>
+
+<a href"https://pilares.cdmx.gob.mx/""target="_hblank">ir a pagina Pilares <img src="https://user-images.githubusercontent.com/91554777/161662475-066ae5de-c984-4c71-9494-40ea1b8a6388.png" width="300px" alt="html5 vistaimagen">
+</a><br>
+<a href"https://pilares.cdmx.gob.mx/""target="_hblank">ir a pagina Pilares <img src="https://user-images.githubusercontent.com/91554777/161662475-066ae5de-c984-4c71-9494-40ea1b8a6388.png" width="300px" alt="html5 vistaimagen">
+</a><br>
+<a href "https://www.disneyplus.com/es-419/movies/deadpool/3Kh13Lrb0Pnv"target="_hblank"> Ir a disney</a><br>
+
+
+
+
+
+tarea: https://www.zendalibros.com/5-poemas-octavio-paz/ copíar pagina a html
